@@ -1,0 +1,13 @@
+application/cache/*
+!application/cache/index.html
+
+application/logs/*
+!application/logs/index.html
+
+uploads/*
+!uploads/laporan/
+!uploads/laporan/.gitkeep
+
+.env
+*.log
+vendor/
